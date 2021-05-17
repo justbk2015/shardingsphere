@@ -78,5 +78,8 @@ execute
     | explain
     | analyzeTable
     | load
+    | createTablespace
+    | dropTablespace
+    | alterTablespace
     ) SEMI_?
     ;
